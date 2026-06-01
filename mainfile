@@ -1,8 +1,8 @@
 #profile-title: SkitVPN
-#announce: Лимит 50 GB | Впн хуета ебанная, не стоит ожидать сверхъестественного
+#announce: Лимитов нет | Впн хуета ебанная, не стоит ожидать сверхъестественного
 #profile-update-interval: 24
 #support-url: https://t.me/skitvpn
 #profile-web-page-url: https://t.me/skitvpn
 
-vless://fa17011e-a393-41a6-8980-2c4a41ab4d2f@135.136.177.8:44333?encryption=none&host=&path=%2Fhapp&security=none&type=ws#🇫🇮 Финляндия #1 | @skitvpn
-vless://fc5e8294-c92e-4a82-bf45-3af54091d88d@95.81.126.72:35166?encryption=none&host=&path=%2F&security=none&type=ws#🇫🇮 Финляндия #2 | @skitvpn
+vless://e5aef22d-807c-49e5-b78e-8386894614fc@135.136.177.8:54856?encryption=none&host=&path=%2F&security=none&type=ws#🇫🇮 Финляндия #1 | @skitvpn
+vless://2927f677-1e13-4c99-aa02-fbc2e7a507b8@95.81.126.72:20320?encryption=none&host=&path=%2F&security=none&type=ws#🇫🇮 Финляндия #2 | @skitvpn
